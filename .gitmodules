@@ -1,3 +1,6 @@
 [submodule "instant-ngp"]
 	path = instant-ngp
 	url = https://github.com/HenryBarrett12/instant-ngp-fork.git
+[submodule "svox2"]
+	path = svox2
+	url = https://github.com/HenryBarrett12/svox2.git
