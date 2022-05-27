@@ -4,3 +4,6 @@
 [submodule "svox2"]
 	path = svox2
 	url = https://github.com/HenryBarrett12/svox2.git
+[submodule "volrend"]
+	path = volrend
+	url = https://github.com/sxyu/volrend.git
