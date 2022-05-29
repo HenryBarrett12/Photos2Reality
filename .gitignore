@@ -8,3 +8,7 @@ colmap.db/
 colmap.db
 *.msgpack
 *.npz
+database.db
+images_resized/
+raw/
+
