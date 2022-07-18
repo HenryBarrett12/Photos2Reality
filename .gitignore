@@ -11,4 +11,4 @@ colmap.db
 database.db
 images_resized/
 raw/
-
+data/
